@@ -3,7 +3,8 @@
 	"package": "show.miku.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"PartialStackMixin"
+		"PartialStackMixin",
+		"SellingBinInventoryMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
