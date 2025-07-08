@@ -27,7 +27,6 @@ dependencies {
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 	modCompileOnly files("libs/SellingBin-mc1.20.1-v1.0.9-fabric.jar")
-	
 }
 
 processResources {
